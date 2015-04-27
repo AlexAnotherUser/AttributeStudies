@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies\bin\Release\AttributeStudies.exe.config
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies\bin\Release\AttributeStudies.exe
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies\bin\Release\AttributeStudies.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies\obj\Release\AttributeStudies.exe
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies\obj\Release\AttributeStudies.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AssemblyStudies.exe.config
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AssemblyStudies.exe
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AssemblyStudies.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.exe
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\obj\Debug\AssemblyStudies.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\obj\Debug\AssemblyStudies.exe
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\obj\Debug\AssemblyStudies.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.Tests.dll
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.Tests.pdb
