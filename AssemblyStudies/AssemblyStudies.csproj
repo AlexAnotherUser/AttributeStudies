@@ -50,10 +50,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AttributeStudies.Tests\AttributeStudies.Tests.csproj">
-      <Project>{90698578-7fa5-47a2-a5bb-ebe6174e1682}</Project>
-      <Name>AttributeStudies.Tests</Name>
-    </ProjectReference>
     <ProjectReference Include="..\AttributeStudies\AttributeStudies.csproj">
       <Project>{bb62d385-51bb-43ba-a14b-c8ed536c6d24}</Project>
       <Name>AttributeStudies</Name>

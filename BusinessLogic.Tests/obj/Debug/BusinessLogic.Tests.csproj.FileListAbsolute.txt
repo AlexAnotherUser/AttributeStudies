@@ -1,0 +1,9 @@
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\obj\Debug\BusinessLogic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\bin\Debug\BusinessLogic.Tests.dll
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\bin\Debug\BusinessLogic.Tests.pdb
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\bin\Debug\BusinessLogic.dll
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\bin\Debug\AttributeStudies.exe
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\bin\Debug\BusinessLogic.pdb
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\bin\Debug\AttributeStudies.pdb
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\obj\Debug\BusinessLogic.Tests.dll
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\BusinessLogic.Tests\obj\Debug\BusinessLogic.Tests.pdb

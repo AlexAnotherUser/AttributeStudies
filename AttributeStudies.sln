@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeStudies", "AttributeStudies\AttributeStudies.csproj", "{BB62D385-51BB-43BA-A14B-C8ED536C6D24}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyStudies", "AssemblyStudies\AssemblyStudies.csproj", "{17C1E00E-654C-4FD2-A46F-B1851F68E77F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeStudies.Tests", "AttributeStudies.Tests\AttributeStudies.Tests.csproj", "{90698578-7FA5-47A2-A5BB-EBE6174E1682}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyStudies.Tests", "AssemblyStudies.Tests\AssemblyStudies.Tests.csproj", "{20E4BC12-4F1E-4FC9-A20A-0DE910BE50A3}"
 EndProject
@@ -29,10 +27,6 @@ Global
 		{17C1E00E-654C-4FD2-A46F-B1851F68E77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17C1E00E-654C-4FD2-A46F-B1851F68E77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17C1E00E-654C-4FD2-A46F-B1851F68E77F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90698578-7FA5-47A2-A5BB-EBE6174E1682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90698578-7FA5-47A2-A5BB-EBE6174E1682}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90698578-7FA5-47A2-A5BB-EBE6174E1682}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90698578-7FA5-47A2-A5BB-EBE6174E1682}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20E4BC12-4F1E-4FC9-A20A-0DE910BE50A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20E4BC12-4F1E-4FC9-A20A-0DE910BE50A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20E4BC12-4F1E-4FC9-A20A-0DE910BE50A3}.Release|Any CPU.ActiveCfg = Release|Any CPU

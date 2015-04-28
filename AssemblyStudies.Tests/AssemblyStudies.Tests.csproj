@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="AssemblyStudiesTests.cs" />
     <Compile Include="MockModels\Methods.cs" />
+    <Compile Include="MockModels\UnitTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

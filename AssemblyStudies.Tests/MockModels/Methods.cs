@@ -12,7 +12,7 @@ namespace AssemblyStudies.Tests.MockModels
         [MustTest]
         void MockMethod_1()
         {
-            
+          //this is mock method used to test it's custom attribute  
         }
     }
 }

@@ -1,7 +1,0 @@
-C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies.Tests\bin\Debug\AttributeStudies.Tests.dll
-C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies.Tests\bin\Debug\AttributeStudies.Tests.pdb
-C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies.Tests\obj\Debug\AttributeStudies.Tests.csprojResolveAssemblyReference.cache
-C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies.Tests\obj\Debug\AttributeStudies.Tests.dll
-C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies.Tests\obj\Debug\AttributeStudies.Tests.pdb
-C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies.Tests\bin\Debug\AttributeStudies.exe
-C:\Users\Alex\Documents\GitHub\AttributeStudies\AttributeStudies.Tests\bin\Debug\AttributeStudies.pdb

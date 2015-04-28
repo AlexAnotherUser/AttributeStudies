@@ -10,3 +10,13 @@ C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\Attrib
 C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.Tests.pdb
 C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\BusinessLogic.dll
 C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\BusinessLogic.pdb
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AssemblyStudies.exe.config
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\obj\Debug\AssemblyStudies.exe
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\obj\Debug\AssemblyStudies.pdb
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AssemblyStudies.exe
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AssemblyStudies.pdb
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.exe
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\BusinessLogic.dll
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.pdb
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\BusinessLogic.pdb
+C:\Users\abeyderman\Documents\GitHub\AttributeStudies\AssemblyStudies\obj\Debug\AssemblyStudies.csprojResolveAssemblyReference.cache

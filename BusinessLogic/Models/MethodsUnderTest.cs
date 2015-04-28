@@ -1,28 +1,35 @@
-﻿using AttributeStudies.Models;
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Reflection;
+using AttributeStudies.Models;
 
 namespace BusinessLogic.Models
 {
     public class MethodsUnderTest
     {
         [MustTest]
-        public static void Method_1()
+        public static IEnumerable<Attribute> Method_1()
         {
-            //var ma = MethodInfo.GetCurrentMethod().GetCustomAttributes();
+            return MethodBase.GetCurrentMethod().GetCustomAttributes();
         }
 
-        [Simple("Simple")]
-        private void Method_2() { }
+        [MustTest]
+        public string Method_2()
+        {
+            return MethodBase.GetCurrentMethod().Name;
+        }
 
-        [Simple("Simple")]
+        [MustTest]
         protected void Method_3() { }
 
-        [Simple("Simple")]
-        private static void Method_4() { }
+        [MustTest]
+        public static void Method_4() { }
 
-        [Simple("Simple")]
+        [MustTest]
         protected static void Method_5() { }
 
-        [SimpleAttribute("Simple")]
+        [MustTest]
         public static void Method_6() { }
     }
 }
