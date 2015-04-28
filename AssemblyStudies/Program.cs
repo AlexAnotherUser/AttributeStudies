@@ -17,14 +17,7 @@ namespace AssemblyStudies
     {
         static void Main(string[] args)
         {
-            var attrUtils = new AttriuteUtils();
-
-            List<string> methods = attrUtils.GetMethodsWithAttr(
-                new List<string> { "MustTest", "SimpleAttribute" },
-                (new List<Assembly> { typeof(MustTest).Assembly, typeof(SimpleAttribute).Assembly }).Distinct(),
-                new List<Assembly> { typeof(MethodsUnderTest).Assembly });
-
-            methods.ForEach(Console.WriteLine);
+            
         }
     }
 }

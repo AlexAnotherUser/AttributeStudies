@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\bin\Debug\AssemblyStudies.Tests.dll
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\bin\Debug\AssemblyStudies.Tests.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\bin\Debug\AssemblyStudies.exe
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\bin\Debug\AttributeStudies.exe
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\bin\Debug\AssemblyStudies.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\bin\Debug\AttributeStudies.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\obj\Debug\AssemblyStudies.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\obj\Debug\AssemblyStudies.Tests.dll
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies.Tests\obj\Debug\AssemblyStudies.Tests.pdb
