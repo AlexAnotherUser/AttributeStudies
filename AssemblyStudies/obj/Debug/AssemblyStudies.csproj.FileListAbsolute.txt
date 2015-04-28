@@ -8,3 +8,5 @@ C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\obj\Debug\Assemb
 C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\obj\Debug\AssemblyStudies.pdb
 C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.Tests.dll
 C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\AttributeStudies.Tests.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\BusinessLogic.dll
+C:\Users\Alex\Documents\GitHub\AttributeStudies\AssemblyStudies\bin\Debug\BusinessLogic.pdb

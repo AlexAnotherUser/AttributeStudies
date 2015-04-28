@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using AssemblyStudies.Models;
 using AttributeStudies;
 using AttributeStudies.Models;
+using BusinessLogic.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 
@@ -16,37 +17,14 @@ namespace AssemblyStudies
     {
         static void Main(string[] args)
         {
-            MethodsUnderTest.Method_1();
-        }
+            var attrUtils = new AttriuteUtils();
 
-        private static void PrintAttrsList()
-        {
-            // string assName = "AttributeStudies.Tests.Tests";
-            Assembly a = typeof(AttributeStudies.Tests.Tests).Assembly;
+            List<string> methods = attrUtils.GetMethodsWithAttr(
+                new List<string> { "MustTest", "SimpleAttribute" },
+                (new List<Assembly> { typeof(MustTest).Assembly, typeof(SimpleAttribute).Assembly }).Distinct(),
+                new List<Assembly> { typeof(MethodsUnderTest).Assembly });
 
-            Console.WriteLine("Methods of Tests: ");
-
-            foreach (var type in a.GetTypes())
-            {
-                MethodInfo[] methods = type.GetMethods(BindingFlags.Public | BindingFlags.Instance);
-
-                PrintCurtomAttr<SimpleAttribute>(methods);
-            } 
-        }
-
-        private static void PrintCurtomAttr<T>(IEnumerable<MethodInfo> methods)
-        {
-            foreach (MethodInfo method in methods)
-            {
-                var attr =
-                    Attribute.GetCustomAttribute(method, typeof(T), false) as SimpleAttribute;
-
-                if (attr != null)
-                {
-                    Console.WriteLine(typeof(T).Name + "." + method.Name);
-                    Console.WriteLine("The method has custom attribute " + typeof(T).Name);
-                }
-            }
+            methods.ForEach(Console.WriteLine);
         }
     }
 }

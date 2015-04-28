@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\GitHub\AttributeStudies\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Alex\Documents\GitHub\AttributeStudies\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\BusinessLogic\bin\Debug\AttributeStudies.exe
+C:\Users\Alex\Documents\GitHub\AttributeStudies\BusinessLogic\bin\Debug\AttributeStudies.pdb
+C:\Users\Alex\Documents\GitHub\AttributeStudies\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Alex\Documents\GitHub\AttributeStudies\BusinessLogic\obj\Debug\BusinessLogic.pdb

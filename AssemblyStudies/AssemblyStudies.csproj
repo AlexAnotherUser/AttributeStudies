@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\MethodsUnderTest.cs" />
+    <Compile Include="Models\AttriuteUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -57,6 +57,10 @@
     <ProjectReference Include="..\AttributeStudies\AttributeStudies.csproj">
       <Project>{bb62d385-51bb-43ba-a14b-c8ed536c6d24}</Project>
       <Name>AttributeStudies</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+      <Project>{a68b2f9e-054b-4638-8e4f-6022456e7fc6}</Project>
+      <Name>BusinessLogic</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
