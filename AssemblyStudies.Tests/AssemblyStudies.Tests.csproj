@@ -51,8 +51,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AssemblyStudiesTests.cs" />
-    <Compile Include="MockModels\Methods.cs" />
-    <Compile Include="MockModels\UnitTests.cs" />
+    <Compile Include="MockModels\MockMethods.cs" />
+    <Compile Include="MockModels\MockUnitTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

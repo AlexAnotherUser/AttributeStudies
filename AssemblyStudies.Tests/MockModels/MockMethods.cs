@@ -7,12 +7,23 @@ using AttributeStudies.Models;
 
 namespace AssemblyStudies.Tests.MockModels
 {
-    class MockMethods
+    public class MockMethods
     {
         [MustTest]
-        void MockMethod_1()
+        public void MockMethod_1()
         {
           //this is mock method used to test it's custom attribute  
+        }
+
+        [MustTest]
+        public void MockMethod_2()
+        {
+            //this is mock method
+        }
+
+        public void MockMethod_NoAttributes()
+        {
+            
         }
     }
 }
